@@ -1,0 +1,2 @@
+# Predciting-future-spread-of-Diabetes-in-Nova-Scotia
+We have designed a deep learning model for predicting the spread of diabetes across Nova Scotia in 2020 so that the required arrangements for tackling the consequences can be made beforehand. The predictions have been recorded on a heat map. This heat map would help the decision-makers to arrange the required number of resources and physicians. This project was developed in 48- hours as a part of Nova Scotia Open Data Challenge.
